@@ -33,7 +33,10 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 1st Python Project |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
+| :car: [Auto Pedestrians Crashes Project](https://github.com/Rafik-Sebia/Auto-Pedestrians-Crashes/blob/main/auto_ped_crashes.ipynb) |   Data Wrangling & EDA | Analysis of a simple dataset about pedestrian crashes in the USA from 2010 to 2018, and answering simple questions like : which year has the most pedestrian crashes ? what are the degrees of Injury ? how different it is for men vs women to be involved in these crashes ? | _pandas, matplotlib, seaborn_ |
+| :hospital: [US Medical Insurance Costs](https://github.com/Rafik-Sebia/2nd-take-U.S.-Medical-Insurance-Project/blob/main/us-medical-insurance-costs.ipynb) |   EDA | Analysis of a CSV file with Medical Insurance Costs using Python fundamentals. The goal with this project as to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset. | _pandas, matplotlib, seaborn_ |
+| :chart_with_upwards_trend: [Life Expectancy and GDP Project](https://github.com/Rafik-Sebia/2nd-Take-on-Life-Expectancy-and-GDP/blob/main/life_expectancy_gdp.ipynb) |   EDA | Analysis of a dataset to find out if there is a strong correlation between the economic output of a country and the life expectancy of its citizens. The goals were to prepare data, followed by analysis with plots, and seek to explain the findings from the study. | _pandas, matplotlib, seaborn_ |
+| :seedling: [Biodiversity Project](https://github.com/Rafik-Sebia/2nd-take-on-Biodiversity-Project/blob/main/biodiversity.ipynb) |   Data Wrangling & EDA | Analysing data from the National Parks Service about endangered species in different parks. We performed some data analysis on the conservation statuses of these species and we investigated if there were any patterns or themes to the types of species that become endangered. | _pandas, matplotlib, seaborn_ |
 
 ***
 
