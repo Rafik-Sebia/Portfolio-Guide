@@ -47,4 +47,4 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🦠 1st Tableau Project | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| :airplane: [Airplane Wildlife Strikes Project](https://github.com/Rafik-Sebia/Airplane-Wildlife-Strikes-Project) | This project is about collisiong between airplanes and wildlife in the US using data from the Federal Aviation Administration (FAA) | [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/CapstoneProjectAirplaneWildlifeStrikes_16760262602620/Dashboard1) |
