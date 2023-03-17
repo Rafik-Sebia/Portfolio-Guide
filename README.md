@@ -47,4 +47,5 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| :airplane: [Airplane Wildlife Strikes Project](https://github.com/Rafik-Sebia/Airplane-Wildlife-Strikes-Project) | This project is about collisiong between airplanes and wildlife in the US using data from the Federal Aviation Administration (FAA) | [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/CapstoneProjectAirplaneWildlifeStrikes_16760262602620/Dashboard1) |
+| :airplane: [Airplane Wildlife Strikes Project](https://github.com/Rafik-Sebia/Airplane-Wildlife-Strikes-Project) | In this project we made a dashboard about collisiong between airplanes and wildlife in the US using data from the Federal Aviation Administration (FAA) | [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/CapstoneProjectAirplaneWildlifeStrikes_16760262602620/Dashboard1) |
+| :deciduous_tree::money_with_wings: [NYC Tree Census Income Project](https://github.com/Rafik-Sebia/NYC-Tree-Census-Income-Project/blob/main/README.md) | In this project we made a dashboard about whether there is a relationship between trees and income in NYC using the Tree Census Dataset | [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/TreeCensusDataSetStarter_16755147282370/Dashboard1) |
