@@ -2,7 +2,7 @@
 
 Hi there! 🙋🏻‍♀️
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects.
+Welcome to my Portfolio Guide where I provide a walkthrough of all of my data analytics projects.
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/rafik-sebia-44837b24a/) about my projects!
 
